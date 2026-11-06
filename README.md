@@ -1,10 +1,8 @@
 
 
-# <p style="color: red;">NSFW WARNING</p> 
+# 만화 Gallery Downloader
 
-# K-Hentai Gallery Downloader
-
-K-Hentai 사이트의 갤러리 ID를 입력하면 페이지 내 이미지 파일을 일괄 다운로드해 주는 파이썬 CLI 스크립트입니다.  
+만화 사이트의 갤러리 ID를 입력하면 페이지 내 이미지 파일을 일괄 다운로드해 주는 파이썬 CLI 스크립트입니다.  
 멀티스레드 병렬 다운로드로 속도 최적화가 되어 있으며, 여러 갤러리 일괄 처리도 지원합니다.
 
 ---
